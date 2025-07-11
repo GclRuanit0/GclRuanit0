@@ -26,3 +26,9 @@
 <img width="200px" src="https://media.tenor.com/6In1Ah1Pq1EAAAAj/ora-star-platinum.gif"/>
 
 </p>
+
+<p align="left">
+
+<img width="200px" src="https://media.tenor.com/6In1Ah1Pq1EAAAAj/ora-star-platinum.gif"/>
+
+</p>
