@@ -1,7 +1,7 @@
 <p align="center">
 
- <img src="https://media.tenor.com/lGUwTeltLgQAAAAj/pokemon-gengareguitar.gif"/>
-<img src="https://media.tenor.com/aQh-G7FrPYQAAAAi/world-of-warcraft-orc.gif"/>
+ <img width="500px" src="https://media.tenor.com/lGUwTeltLgQAAAAj/pokemon-gengareguitar.gif"/>
+<img width="500px" src="https://media.tenor.com/aQh-G7FrPYQAAAAi/world-of-warcraft-orc.gif"/>
 
 </p>
 
@@ -18,7 +18,7 @@
 
 <p align="center">
 
- <img src="https://media.tenor.com/dBJlvbopMPAAAAAj/muda-jjba.gif"/>
-<img src="https://media.tenor.com/6In1Ah1Pq1EAAAAj/ora-star-platinum.gif"/>
+ <img width="500px" src="https://media.tenor.com/dBJlvbopMPAAAAAj/muda-jjba.gif"/>
+<img width="500px" src="https://media.tenor.com/6In1Ah1Pq1EAAAAj/ora-star-platinum.gif"/>
 
 </p>
