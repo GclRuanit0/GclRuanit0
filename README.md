@@ -1,7 +1,7 @@
 <p align="center">
 
  <img src="https://media.tenor.com/lGUwTeltLgQAAAAj/pokemon-gengareguitar.gif"/>
- <img src="https://media1.tenor.com/m/VvruzlPrMGIAAAAd/doot-skeleton.gif"/>
+<img src="https://media.tenor.com/aQh-G7FrPYQAAAAi/world-of-warcraft-orc.gif"/>
 
 </p>
 
