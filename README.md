@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3a48807e-12c5-4c32-b0b1-dce3b0a70674"/>
+</p>
+
 # Minhas Estatísticas
 <P align="center">
   <a href="https://github.com/GclRuanit0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GclRuanit0&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&align=center" alt="github stats" /></a> <a href="https://github.com/GclRuanit0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GclRuanit0&layout=compact&theme=dark&hide_border=true" /></a>
