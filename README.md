@@ -19,6 +19,6 @@
 <p align="center">
 
  <img width="200px" src="https://media.tenor.com/dBJlvbopMPAAAAAj/muda-jjba.gif"/>
-<img width="210px" src="https://media.tenor.com/6In1Ah1Pq1EAAAAj/ora-star-platinum.gif"/>
+<img width="200px" src="https://media.tenor.com/6In1Ah1Pq1EAAAAj/ora-star-platinum.gif"/>
 
 </p>
