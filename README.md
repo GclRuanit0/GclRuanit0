@@ -29,6 +29,6 @@
 
 <p align="right">
 
-<img width="200px" src="https://i.imgur.com/K8P4qot.png"/>
+<img width="200px" src="https://images.gamebanana.com/img/ico/sprays/598d71434cc92.png"/>
 
 </p>
