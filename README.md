@@ -1,9 +1,8 @@
 
 
-<p align="center">
+<p align="left">
 
- <img width="500px" src="https://media.tenor.com/lGUwTeltLgQAAAAj/pokemon-gengareguitar.gif"/>
-<img width="500px" src="https://media.tenor.com/aQh-G7FrPYQAAAAi/world-of-warcraft-orc.gif"/>
+ <img width="100px" src="https://media.tenor.com/lGUwTeltLgQAAAAj/pokemon-gengareguitar.gif"/>
 
 </p>
 
