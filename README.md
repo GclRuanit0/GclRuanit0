@@ -15,3 +15,10 @@
   <img align="center" alt="Jappe-CSS" height="95" width="95" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Jappe-VSCode" height="95" width="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
 </div>
+
+<p align="center">
+
+ <img src="https://media.tenor.com/PojyNJJmJEQAAAAi/jojo-muda.gif"/>
+<img src="https://media.tenor.com/6In1Ah1Pq1EAAAAj/ora-star-platinum.gif"/>
+
+</p>
