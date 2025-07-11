@@ -18,7 +18,7 @@
 
 <p align="center">
 
- <img src="https://media.tenor.com/PojyNJJmJEQAAAAi/jojo-muda.gif"/>
+ <img src="https://media.tenor.com/dBJlvbopMPAAAAAj/muda-jjba.gif"/>
 <img src="https://media.tenor.com/6In1Ah1Pq1EAAAAj/ora-star-platinum.gif"/>
 
 </p>
