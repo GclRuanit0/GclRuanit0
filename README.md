@@ -16,14 +16,11 @@
     <img align="center" alt="Jappe-VSCode" height="95" width="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
 </div>
 
+
+
 <p align="center">
-
-<img width="250" src="https://media.tenor.com/aZUK0EChu9kAAAAi/tusk-steel-ball-run.gif"/>
-
 
  <img width="250px" src="https://media.tenor.com/dBJlvbopMPAAAAAj/muda-jjba.gif"/>
 <img width="200px" src="https://media.tenor.com/6In1Ah1Pq1EAAAAj/ora-star-platinum.gif"/>
-
-<img width="250" src="https://c.tenor.com/Tx54hh_E9GgAAAAd/tenor.gif"/>
 
 </p>
