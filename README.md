@@ -3,7 +3,7 @@
 <p align="left">
 
  <img width="100px" src="https://media.tenor.com/lGUwTeltLgQAAAAj/pokemon-gengareguitar.gif"/>
-
+<p>"Diidididididdide"</p>
 </p>
 
 # Minhas Estatísticas
