@@ -29,12 +29,6 @@
 
 <p align="right">
 
-<p align="left">
-
-<img width="200px" src="https://i.pinimg.com/originals/7f/bc/2d/7fbc2d8a6a1283a2ef8bae0586310fc2.png"/>
-
-</p>
-
 
 <img width="200px" src="https://images.gamebanana.com/img/ico/sprays/598d71434cc92.png"/>
 
