@@ -18,7 +18,12 @@
 
 <p align="center">
 
+<img width="250" src="https://media.tenor.com/aZUK0EChu9kAAAAi/tusk-steel-ball-run.gif"/>
+
+
  <img width="250px" src="https://media.tenor.com/dBJlvbopMPAAAAAj/muda-jjba.gif"/>
 <img width="200px" src="https://media.tenor.com/6In1Ah1Pq1EAAAAj/ora-star-platinum.gif"/>
+
+<img width="250" src="https://c.tenor.com/Tx54hh_E9GgAAAAd/tenor.gif"/>
 
 </p>
