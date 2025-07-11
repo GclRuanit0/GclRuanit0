@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3a48807e-12c5-4c32-b0b1-dce3b0a70674"/>
+  <img src="https://tenor.com/pt-BR/view/pico-gif-21592849"/>
+  <img src="https://tenor.com/pt-BR/view/pokemon-gengareguitar-gif-10693006001447972356"/>
+  <img src="https://tenor.com/pt-BR/view/garfield-it-might-seem-happy-dancing-gif-14829274"/>
+  <img src="https://tenor.com/pt-BR/view/doot-skeleton-dancing-grooves-get-dooted-gif-17104397"/>
 </p>
 
 # Minhas Estatísticas
