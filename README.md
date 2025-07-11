@@ -1,8 +1,8 @@
-# My Stats
+# Minhas Estatísticas
 <P align="center">
   <a href="https://github.com/GclRuanit0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GclRuanit0&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&align=center" alt="github stats" /></a> <a href="https://github.com/GclRuanit0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GclRuanit0&layout=compact&theme=dark&hide_border=true" /></a>
 
-# Learning
+# Aprendendo
 <div align="center" style="display: inline_block">
   <img align="center" alt="Jappe-HTML" height="95" width="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="Jappe-CSS" height="95" width="95" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
