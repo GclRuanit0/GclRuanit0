@@ -29,6 +29,6 @@
 
 <p align="left">
 
-<img width="200px" src="https://i.imgur.com/huyaEjY.png"/>
+<img width="200px" src="https://i.imgur.com/K8P4qot.png"/>
 
 </p>
